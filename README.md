@@ -1,3 +1,9 @@
+## 微信公众号
+
+扫码关注微信公众号，分布式编程。
+
+![](https://www.images.mdan.top/qrcode_for_gh_1e2587cc42b1_258_1587996055777.jpg)
+
 # selenium 中文文档
 
 这里主要集中了 Selenium 官网的所有文档，和项目 Wiki 中的部分文档翻译。
